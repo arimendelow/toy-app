@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: toy-app_production
-  username: toy-app
+  username: postgres
   password: <%= ENV['TOY-APP_DATABASE_PASSWORD'] %>
