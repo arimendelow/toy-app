@@ -1,3 +1,9 @@
+
+# Ruby on Rails tutorial demo app, set up using scaffolding!
+
+This is the second application for the [*Ruby on Rails Tutorial*](https://www.railstutorial.org/).
+
+
 Once postgres is setup, before this can be run in production:
 * Run `/usr/local/Cellar/postgresql/11.3//bin/createuser -s postgres` to create a user called `postgres`
   * Only need to do this once per computer, and the username can be whatever you want
